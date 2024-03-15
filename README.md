@@ -2,7 +2,7 @@
 <p align="justify">This website displays my Projects, Web presence, Story, Work experience, and contact information.</p>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/mohdanwaroddin/My_Portfolio/)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)]()
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://mohdanwarsportfolio.netlify.app/)
 [![Author](https://img.shields.io/badge/Author-Mohd%20Anwar-purple.svg)](https://www.linkedin.com/in/mohd-anwaroddin-b2895b1bb/)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-15%20Mar%202024-yellow.svg)](https://github.com/mohdanwaroddin/My_Portfolio/)
 
